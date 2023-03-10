@@ -1,0 +1,23 @@
+﻿<Application x:Class="Buble_Video_Platform.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Buble_Video_Platform"
+             xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/UIColor.xaml"/>
+                <ResourceDictionary Source="/Styles/ButtonStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+    <!--<Application.Resources>-->
+
+        
+        <!--<ResourceDictionary Source="/Styles/UIColor.xaml"/>
+        <ResourceDictionary Source="/Styles/ButtonStyles.xaml"/>-->
+
+
+    <!--</Application.Resources>-->
+</Application>

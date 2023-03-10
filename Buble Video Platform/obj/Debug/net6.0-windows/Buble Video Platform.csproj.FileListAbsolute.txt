@@ -1,0 +1,50 @@
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform.csproj.AssemblyReference.cache
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\auth_page.g.cs
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\login_page.g.cs
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\signup_page.g.cs
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform_MarkupCompile.cache
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform_MarkupCompile.lref
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\Buble Video Platform.exe
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\Buble Video Platform.deps.json
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\Buble Video Platform.runtimeconfig.json
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\Buble Video Platform.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\Buble Video Platform.pdb
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\auth_page.baml
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\login_page.baml
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\signup_page.baml
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform.g.resources
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform.AssemblyInfoInputs.cache
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform.AssemblyInfo.cs
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform.csproj.CoreCompileInputs.cache
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform.csproj.CopyComplete
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\refint\Buble Video Platform.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform.pdb
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Buble Video Platform.genruntimeconfig.cache
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\ref\Buble Video Platform.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Styles\ButtonStyles.baml
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Styles\UIColor.baml
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\HomePage.g.cs
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\App.baml
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\HomePage.baml
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Themes\Generic.baml
