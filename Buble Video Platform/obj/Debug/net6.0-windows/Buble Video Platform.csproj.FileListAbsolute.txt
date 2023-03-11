@@ -48,3 +48,5 @@ C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\
 C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\App.baml
 C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\HomePage.baml
 C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Themes\Generic.baml
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Upload_Pgae.g.cs
+C:\Users\raisa\source\repos\Buble Video Platform\Buble Video Platform\obj\Debug\net6.0-windows\Upload_Pgae.baml

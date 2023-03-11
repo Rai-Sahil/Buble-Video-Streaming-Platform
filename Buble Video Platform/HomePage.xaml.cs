@@ -23,6 +23,7 @@ namespace Buble_Video_Platform
         public HomePage()
         {
             InitializeComponent();
+            this.MaxHeight = SystemParameters.MaximizedPrimaryScreenHeight;
         }
 
         private void Upload_button_Checked(object sender, RoutedEventArgs e)
@@ -32,7 +33,12 @@ namespace Buble_Video_Platform
 
         private void pnlControlBar_MouseLeftButtonDown(object sender, MouseEventArgs e)
         {
+        }
+
+        private void pnlControlBar_MouseEnter(object sender, MouseEventArgs e)
+        {
 
         }
+
     }
 }

@@ -9,7 +9,7 @@
 
     <Grid Background="#292242">
         <Frame Content="" x:Name="auth_frame" Background="#292242" BorderBrush="White"/>
-        <Button x:Name="login_choice_button" Content="Login" HorizontalAlignment="Left" Height="32" Margin="466,284,0,0" VerticalAlignment="Top" Width="176" Background="#FD4B65" Foreground="White" Click="login_choice_button_Click">
+        <Button x:Name="login_choice_button" Content="Login" HorizontalAlignment="Left" Height="32" Margin="780,375,0,0" VerticalAlignment="Top" Width="176" Background="#FD4B65" Foreground="White" Click="login_choice_button_Click">
             <Button.Resources>
                 <Style TargetType="Border">
                     <Setter Property="CornerRadius" Value="20,2,20,2"/>
@@ -17,15 +17,15 @@
             </Button.Resources>
         </Button>
 
-        <Button x:Name="signup_option_button" Content="Sign Up" HorizontalAlignment="Left" Height="32" Margin="136,284,0,0" VerticalAlignment="Top" Width="176" Background="{x:Null}" BorderBrush="White" Foreground="White" Click="signup_option_button_Click">
+        <Button x:Name="signup_option_button" Content="Sign Up" HorizontalAlignment="Left" Height="32" Margin="353,370,0,0" VerticalAlignment="Top" Width="176" Background="{x:Null}" BorderBrush="White" Foreground="White" Click="signup_option_button_Click">
             <Button.Resources>
                 <Style TargetType="Border">
                     <Setter Property="CornerRadius" Value="2,20,2,20"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Image HorizontalAlignment="Center" Height="126" Margin="0,50,0,0" VerticalAlignment="Top" Width="118" Source="C:\\Users\\raisa\\OneDrive\\Desktop\\Untitled\\Buble logo 1.png"/>
-        <Image HorizontalAlignment="Left" Height="50" Margin="308,206,0,0" VerticalAlignment="Top" Width="202" Source="C:\Users\raisa\OneDrive\Desktop\Untitled\Buble.png"/>
+        <Image HorizontalAlignment="Center" Height="126" Margin="0,101,0,0" VerticalAlignment="Top" Width="118" Source="C:\\Users\\raisa\\OneDrive\\Desktop\\Untitled\\Buble logo 1.png"/>
+        <Image HorizontalAlignment="Left" Height="50" Margin="558,272,0,0" VerticalAlignment="Top" Width="202" Source="C:\Users\raisa\OneDrive\Desktop\Untitled\Buble.png"/>
 
     </Grid>
 </Page>

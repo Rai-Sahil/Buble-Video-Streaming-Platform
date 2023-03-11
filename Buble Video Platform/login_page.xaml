@@ -7,10 +7,17 @@
      Height="700" Width="1300"
       Title="login_page">
 
-    <Grid Background="#292242">
-        <TextBox x:Name="username_textbox" HorizontalAlignment="Left" Height="22" Margin="266,126,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="184"/>
-        <TextBox x:Name="password_textbox" HorizontalAlignment="Left" Height="21" Margin="266,225,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="184"/>
-        <Button Content="Button" HorizontalAlignment="Left" Height="26" Margin="266,301,0,0" VerticalAlignment="Top" Width="184" Click="Button_Click"/>
+    <Grid Background="#292242" Margin="0,3,0,-3">
+
+        <TextBox x:Name="username_textbox" HorizontalAlignment="Left" Height="22" Margin="529,214,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="184"/>
+        <TextBox x:Name="password_textbox" HorizontalAlignment="Left" Height="21" Margin="529,265,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="184" TextChanged="password_textbox_TextChanged"/>
+        <Button Content="Login" HorizontalAlignment="Left" Background="#FD4B65" Height="26" Margin="530,364,0,0" VerticalAlignment="Top" Width="184" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="20,2,20,2"/>
+                </Style>
+            </Button.Resources>
+        </Button>
 
     </Grid>
 </Page>
